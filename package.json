@@ -1,0 +1,26 @@
+{
+  "name": "linkeztojson",
+  "version": "1.0.0",
+  "description": "linkez links to json",
+  "main": "linkez.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rqfreitas/linkeztojson.git"
+  },
+  "keywords": [
+    "linkez"
+  ],
+  "author": "rqfreitas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rqfreitas/linkeztojson/issues"
+  },
+  "homepage": "https://github.com/rqfreitas/linkeztojson#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.11"
+  }
+}
